@@ -25,4 +25,4 @@ kotlinc src/bot/SimpleBot.kt -include-runtime -d SimpleBot.jar
 
 [openjdk-14]: http://jdk.java.net/14/
 [kotlinc]: https://github.com/JetBrains/kotlin/releases/latest
-[hyperskill]: https://hyperskill.org/projects/42
+[hyperskill]: https://hyperskill.org/projects/95
